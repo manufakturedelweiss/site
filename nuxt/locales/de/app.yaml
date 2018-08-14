@@ -94,7 +94,7 @@ error-username_taken: Username bereits vergeben
 exportMyData: Meine Dateien exportieren
 filterByPattern: Nach Schnittmuster filtern
 forContributors: Für mitwirkende
-forMoreInfoRtfm: 'Fuer mehr Informationen, lese bitte die Dokumentation'
+forMoreInfoRtfm: 'Für mehr Informationen, lese bitte die Dokumentation'
 forUsername: 'Für {username}'
 forUsers: Für Anwender
 fork: Abzweigung
@@ -127,8 +127,8 @@ info: Info DONE
 instagram: Instagram DONE
 instagramUpdated: Instagram Account aktualisiert
 italics: Kursiv
-joinTheFreesewingPatrons: Join the freesewing patrons TODO
-joinTheFreesewingPatrons-txt: 'We are building a bedrock of loyal supporters to ensure a sustainable future for freesewing.org, our code, our patterns, and our community. TODO'
+joinTheFreesewingPatrons: Schließe dich den Freesewing Gönnern an.
+joinTheFreesewingPatrons-txt: 'Wir bauen ein Fundament aus loyalen Untersützern auf, um sicher zu stellen, dass Freesewing.org, unser Code, unsere Schnittmuster und unser Gemeinschaft eine sichere Zukunft haben.
 joinTheTranslationTeam: 'Gerade wenn du noch nie etwas an ein open source Projekt beigetragen hast, ist das Übersetzen ein sanfter Einstieg hin zum ruhmeshaften Mitwirken.'
 justAMoment: Einen Moment bitte
 key: Schlüssel
@@ -184,9 +184,9 @@ originStory: Herkunftsgeschichte
 pageNotFound: 'Die Seite, die Du gesucht hast, ist nicht auffindbar.'
 paperlessTheme: Papierlose Thematik
 password: Passwort
-passwordResetPending: Das Zurückstellen des Passworts ist hängig.
+passwordResetPending: Das Zurücksetzen des Passworts ist im Gange.
 passwordUpdated: Passwort geändert.
-patron-2: Sprengmeister
+patron-2: Pulveräffchen
 patron-4: Erster Offizier
 patron-8: Kapitaen
 patronText: '{username} ist ein {patronTier} seit {daysAgo}'
@@ -200,12 +200,12 @@ patternOptions: Schnittmuster Optionen
 patternParts: Teile des Schnittmusters
 patterns: Schnittmuster
 pleaseCheckYourInbox: Du wirst in Kürze eine E-Mail mit weiteren Anleitungen erhalten.
-pleaseEnterAValidEmailAddress: Bitte eine gueltige Email Adresse angeben
+pleaseEnterAValidEmailAddress: Bitte eine gültige Email Adresse angeben
 pleaseUpgradeThisDraft: Bitte entwickle diesen Entwurf weiter.
 postComment: Kommentar veröffentlichen
 postInfo: Post Info DONE
 postReply: Post Rückmeldung
-preferences: Praeferenz
+preferences: Präferenz
 privacy: Privatsphäre
 privacyNotice: Datenschutzerklärung
 processingDraftOptions: Bearbeite Entwurfsoptionen
@@ -220,7 +220,7 @@ quote-jamie-about: Autor des beliebten Nähblogs Male Devon Sewing und 2016 Teil
 reSendActivationEmail: Aktivierungs E-Mail erneut versenden
 readyToTryFreesewing: 'Bereit, Freesewing auszuprobieren?'
 redraft: Neuentwurf
-redraftDraftHandle: 'Newentwurf Entwurf {handle}'
+redraftDraftHandle: 'Neuentwurf Entwurf {handle}'
 reference: Hinweis
 removeAllMyData: Alle meine Daten löschen
 removeAllMyModelData: Alle Daten meiner Modelle löschen
@@ -231,10 +231,10 @@ requiredMeasurements: Erforderliche Maße
 resetPassword: Passwort zurücksetzen
 result: Ergebnis
 retrievingDraftFromCore: Entwurf wird vom Kern abgerufen
-revokeConsent: Zustimmung zuruecknehemen
+revokeConsent: Zustimmung zurücknehemen
 rowsFromToOfTotal: 'Reihe {from} bis {to} von {total}'
 rowsPerPage: Reihen per Seite
-sa: Seam allowance TODO
+sa: Nahtzugabe
 save: Speichern
 scope: Geltungsbereich
 seamAllowance: Nahtzugabe
@@ -243,7 +243,7 @@ seeAlso: Siehe auch
 seeBelow: Siehe unten
 selectADifferentImage: Anderes Bild auswählen
 selectAnImage: Bild auswählen
-selectThePartsYouWantIncludedInYourDraft: 'Markiere die Teile, die du in dein Entwurf miteinbeziehen willst'
+selectThePartsYouWantIncludedInYourDraft: 'Markiere die Teile, die du in deinen Entwurf miteinbeziehen willst'
 settings: Einstellungen
 sewingPatternsForNonAveragePeople: Schnittmuster für nicht-durchschnittliche Menschen
 share: Teilen
@@ -375,15 +375,15 @@ txt-translators1: Wir suchen Leute die uns mit unserer Uebersetzungsinitiative a
 txt-translators2: Viele Haende machen bald eine Ende und auf dieser Art beizutragen macht exzellentes Karma.
 txt-translators3: 'Um mehr darueber zu erfahren was du tun und wie du es tun kannst, klick den untenstehenden Link'
 txt-warningDataRestriction: 'Sollten wir dein Konto einschraenken, kannst du es nicht selbst reaktivieren. Um erneut Zugriff zu bekommen, must du uns kontaktieren.'
-txt-warningModelData: Dies loescht all deine Modelle und all deine Entwuerfe.
-txt-warningProfileData: 'Dies loescht all deine Modelle, all deine Entwuerfe, deine Kommentare und dein Konto. Alles ist dann weg.'
-txt-withOrWithoutBreasts: 'Um weibliche Oberweite anzupassen werden viele extra Masse benotigt die unnotig sind wenn das Modell keine Brueste hat. Wenn du angibst das dein Model keine Brueste hat werden wir dir nicht die Masse angeben da sie nicht gebraucht werden. Wenn du unsicher bist was du ausswaehlen sollst, wahle Brueste aus.'
+txt-warningModelData: Dies loescht all deine Modelle und all deine Entwürfe.
+txt-warningProfileData: 'Dies löscht all deine Modelle, all deine Entwürfe, deine Kommentare und dein Konto. Alles ist dann weg.'
+txt-withOrWithoutBreasts: 'Um weibliche Oberweite anzupassen werden viele extra Masse benötigt die unnötig sind wenn das Modell keine Brüste hat. Wenn du angibst, dass dein Model keine Brüste hat werden wir dir nicht die Masse angeben da sie nicht gebraucht werden. Wenn du unsicher bist was du ausswaehlen sollst, wahle Brueste aus.'
 txt-withOrWithoutBreasts-explainer: 'Auf anderen Webseiten, wird die Frage mit ''männlich oder weiblich?'' formuliert. Wir wollen Menschen nicht in diese Schubladen stecken. Uns interessiert nur, dass das Kleidungsstück gut am Oberkörper anliegt.'
 type: Type DONE
 units: Einheiten
-unitsUpdated: Units set DONE
-unknownUser-msg: 'Dies sollte die Profilseite von @{user} sein, aber wir haben keinen Bentuzer mit diesem Namen.'
-unknownUser-title: 'Weist du wer @{user} ist? Wir naemlich nicht.'
+unitsUpdated: Einheiten aktualisiert
+unknownUser-msg: 'Dies sollte die Profilseite von @{user} sein, aber wir haben keinen Benutzer mit diesem Namen.'
+unknownUser-title: 'Weist du wer @{user} ist? Wir nämlich nicht.'
 updates: Aktualisierungen
 upgrade: Upgrade DONE
 upgradeRequired: Upgrade noetig
